@@ -1,0 +1,50 @@
+.column-status{
+    text-transform: capitalize;
+    vertical-align: middle!important;
+}
+
+.jconfirm-title .hub-booking-status{
+    font-size: 0.7rem;
+    vertical-align: bottom;
+    margin-left: 0.7rem;
+    text-transform: uppercase;
+}
+
+.hub-booking-status.pending{
+    border: 2px solid #ffc600;
+    color: #ffc600;
+    border-radius: 4px;
+    padding: 2px 8px;
+}
+.hub-booking-status.approved{
+    border: 2px solid #00990d;
+    color: #00990d;
+    border-radius: 4px;
+    padding: 2px 8px;
+}
+.hub-booking-status.unapproved{
+    border: 2px solid #910099;
+    color: #910099;
+    border-radius: 4px;
+    padding: 2px 8px;
+}
+.hub-booking-status.completed{
+    border: 2px solid #aaaaaa;
+    color: #444;
+    border-radius: 4px;
+    padding: 2px 8px;
+}
+.hub-booking-status.cancelled{
+    border: 2px solid #9f3333;
+    color: #9f3333;
+    border-radius: 4px;
+    padding: 2px 8px;
+}
+
+#hub-booking-calendar{
+    padding-right: 1.5rem;
+}
+
+.hub-booking-calendar-event .jconfirm-content{
+    color: #444;
+}

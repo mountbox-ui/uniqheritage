@@ -1,0 +1,18 @@
+{
+	"home_page_title": "Architecture Hub Homepage",
+	"blog_page_title": "Blog",
+	"menus": {
+		"primary": "Primary"
+	},
+	"templates": {
+		"header-template": "Architecture Main Header",
+		"footer-template": "Architecture Main Footer"
+	},
+	"content_plugins": {
+		"hub-core": "Hub Core",
+        "elementor": "Elementor",
+        "hub-elementor-addons": "Hub Elementor Addons",
+        "hub-portfolio": "Hub Portfolio",
+        "contact-form-7": "Contact Form 7"
+	}
+}
